@@ -12,7 +12,7 @@ So feel free to reach out to me! I'm always looking for new ideas and projects t
 In my free time I'm quite the rock climber so I will often go climbing after work hours. 🧗
 
 
-## Langueages and Frameworks:
+## Languages and Frameworks:
 <table>
 <tbody>
 <tr>
@@ -26,9 +26,38 @@ In my free time I'm quite the rock climber so I will often go climbing after wor
   <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
   </td>
   <td align="center" width="33%" >
-  <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/python.png"> 
+  <img height=80px src="https://www.vectorlogo.zone/logos/java/python.svg"> 
   </td>
  </tr>
+</tbody>
+</table>
+
+
+<table>
+<tbody>
+
+<tr>
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> 
+</td>
+
+</tr>
 </tbody>
 </table>
 
