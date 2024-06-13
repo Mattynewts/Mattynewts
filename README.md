@@ -26,7 +26,7 @@ In my free time I'm quite the rock climber so I will often go climbing after wor
   <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
   </td>
   <td align="center" width="33%" >
-  <img height=80px src="https://www.vectorlogo.zone/logos/java/python.svg"> 
+  <img height=80px src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> 
   </td>
  </tr>
 </tbody>
