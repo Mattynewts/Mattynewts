@@ -28,6 +28,9 @@ In my free time I'm quite the rock climber so I will often go climbing after wor
   <td align="center" width="20%" >
   <img height=80px src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> 
   </td>
+  <td align="center" width="20%" >
+  <img height=80px src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> 
+  </td>
  </tr>
 </tbody>
 </table>
