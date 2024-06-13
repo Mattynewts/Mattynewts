@@ -1,4 +1,38 @@
-## Hi there 👋
+## About
+
+#### I'm Matt 👋
+
+I'm a recent graduate at the University of Calgary with a Bachelor's in Science in Computer Science.
+
+After recieving the NSERC award for my proposed VR development project I began working as a researcher at the University of Calgary to utilize virtual realtiy for new user friendly systems. More specifically my project can be seen on my profile which is something I am super excited about and would love to talk about more!
+
+So feel free to reach out to me! I'm always looking for new ideas and projects to talk about. 
+
+
+In my free time I'm quite the rock climber so I will often go climbing after work hours. 🧗
+
+
+## Langueages and Frameworks:
+<table>
+<tbody>
+<tr>
+  <td align="center" width="33%">
+  <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
+  </td>
+  <td align="center" width="33%" >
+  <img height=60px src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"> 
+  </td>
+  <td align="center" width="33%" >
+  <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
+  </td>
+  <td align="center" width="33%" >
+  <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/python.png"> 
+  </td>
+ </tr>
+</tbody>
+</table>
+
+
 
 <!--
 **Mattynewts/Mattynewts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
