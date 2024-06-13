@@ -16,19 +16,22 @@ In my free time I'm quite the rock climber so I will often go climbing after wor
 <table>
 <tbody>
 <tr>
-  <td align="center" width="20%">
+  <td align="center" width="15%">
   <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
   </td>
-  <td align="center" width="20%" >
+  <td align="center" width="15%" >
   <img height=60px src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"> 
   </td>
-  <td align="center" width="20%" >
+  <td align="center" width="15%" >
   <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
   </td>
-  <td align="center" width="20%" >
+  <td align="center" width="15%" >
+  <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/c#_logo.png"> 
+  </td>
+  <td align="center" width="15%" >
   <img height=80px src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> 
   </td>
-  <td align="center" width="20%" >
+  <td align="center" width="15%" >
   <img height=80px src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> 
   </td>
  </tr>
